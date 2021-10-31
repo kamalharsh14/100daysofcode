@@ -1,0 +1,12 @@
+[Question Heading]
+
+[Question]
+
+Input:
+
+Output:
+
+[Task and constraints]	
+
+#day in #100daysofcode
+#coding #DSA #development
