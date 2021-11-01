@@ -1,3 +1,5 @@
+#day in #100daysofcode
+
 [Question Heading]
 
 [Question]
@@ -8,5 +10,5 @@ Output:
 
 [Task and constraints]	
 
-#day in #100daysofcode
+#100daysofcodebygfg #100daysofcodechallenge
 #coding #DSA #development
