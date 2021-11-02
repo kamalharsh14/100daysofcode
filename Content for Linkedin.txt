@@ -10,5 +10,7 @@ Output:
 
 [Task and constraints]	
 
+Time Complexity:
+
 #100daysofcodebygfg #100daysofcodechallenge
 #coding #DSA #development
