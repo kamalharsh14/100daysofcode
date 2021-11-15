@@ -16,7 +16,10 @@ public class kthsmallestelement{
 
         int k = in.nextInt(); //Nth smallest number 
 
-        
+        Arrays.sort(arr); //Sorting Array
+    
+        System.out.println(arr[k-1]);
+
         in.close();
     }
 }
