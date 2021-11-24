@@ -1,4 +1,3 @@
-package Code;
 import java.util.*;
 public class cyclicrotation {
     public static void main(String[] args) {

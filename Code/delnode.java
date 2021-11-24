@@ -1,4 +1,4 @@
-package Code;
+
 import java.util.*;
 public class delnode {
     public static void main(String[] args) {

@@ -1,4 +1,3 @@
-package Code;
 import java.util.*;
 public class circular {
     public static void main(String[] args) {

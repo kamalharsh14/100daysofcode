@@ -1,4 +1,3 @@
-package Code;
 import java.util.*;
 public class reversearray {
     public static void main(String[] args) {
