@@ -5,7 +5,6 @@ public class reversestring {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
         String a[] = new String[n];
-        String b[] = new String[n];
         for(int i = 0 ; i < n ; i++){
             a[i] = in.nextLine();
         }
