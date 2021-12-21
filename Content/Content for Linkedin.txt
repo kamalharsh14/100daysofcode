@@ -8,7 +8,7 @@ Input:
 
 Output:
 
-[Task and constraints]	
+[Task and constraints]
 
 Time Complexity:
 
