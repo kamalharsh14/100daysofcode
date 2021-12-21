@@ -8,8 +8,6 @@ Input:
 
 Output:
 
-[Task and constraints]
-
 Time Complexity:
 
 #100daysofcodebygfg #100daysofcodechallenge
