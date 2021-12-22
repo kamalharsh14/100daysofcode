@@ -13,6 +13,8 @@ public class mergeintervals {
             intervals[i][1] = in.nextInt();
         }
 
+        Arrays.sort(intervals, (a,b) -> a[0] - b[0]);
+
         List<int[]> temp = new ArrayList<>();
         int start = intervals[0][0];
         int end = intervals[0][1];
@@ -31,6 +33,8 @@ public class mergeintervals {
         for(int row[] : temp){
             System.out.println("["+row[0]+" "+row[1]+"]");
         }
+
+        temp.toArray(new int[temp.size()][]);
         in.close();
     }
 }
