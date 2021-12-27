@@ -18,6 +18,7 @@ public class searchinsortedarray {
                     break;
                 }
             }
+            System.out.println(pos);
         in.close();
     }
 }
