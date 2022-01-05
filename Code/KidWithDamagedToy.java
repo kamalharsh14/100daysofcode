@@ -15,7 +15,7 @@ public class KidWithDamagedToy {
 
     int toysDistribution(int n, int m, int k){
         if(m <= (n - k + 1)){
-            return (m - k -1);
+            return (m + k -1);
         }
         else{
             m = m - (n - k + 1);
